@@ -120,7 +120,8 @@
         background-image: url('../../lib/img/background-6.jpg');
 
         +.layer {
-            background: rgba(63, 70, 213, .9);
+            // background: rgba(63, 70, 213, .9);
+            background: black;
         }
 
     }
