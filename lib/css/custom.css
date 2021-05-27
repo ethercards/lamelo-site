@@ -1500,7 +1500,7 @@ article {
 /* line 102, ../../sass/_main.scss */
 .days-left {
   line-height: 0.96em;
-  margin-bottom: 18px;
+  margin-bottom: 5px;
   font-size: 1.544em;
 }
 @media (max-width: 1170px) {
