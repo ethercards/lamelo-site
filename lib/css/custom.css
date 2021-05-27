@@ -1686,7 +1686,7 @@ form.notify .btn {
 @media only screen and (max-width: 767px) {
   /* line 130, ../../sass/_main.scss */
   form.notify {
-    margin-bottom: 35px;
+    /* margin-bottom: 35px; */
   }
 }
 

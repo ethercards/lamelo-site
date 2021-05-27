@@ -246,7 +246,7 @@ form.notify {
     margin: 0;
   }
   @include respond-to(mobile) {
-    margin-bottom: 35px;
+    /* margin-bottom: 35px; */
   }
 }
 @media (max-width: 500px) {
