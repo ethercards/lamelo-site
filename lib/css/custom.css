@@ -10,9 +10,9 @@ License URI: http://themeforest.net/licenses/regular_extended
 */
 /* FONTS
 ------------------------------------------------------------------*/
-@import url(http://fonts.googleapis.com/css?family=Montserrat:700);
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
 @font-face {
   font-family: 'pf_dindisplay_promedium';
   src: url("../fonts/pfdindisplaypro-med-webfont.eot");
